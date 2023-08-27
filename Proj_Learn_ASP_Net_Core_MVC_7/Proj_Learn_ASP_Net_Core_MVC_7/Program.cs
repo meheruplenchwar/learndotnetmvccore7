@@ -3,6 +3,7 @@ var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 
+//Whatever services needed in applicatio will be declared here
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
@@ -13,6 +14,7 @@ if (!app.Environment.IsDevelopment())
     app.UseHsts();
 }
 
+//Section for configuring middlewares
 app.UseHttpsRedirection();
 app.UseStaticFiles();
 
@@ -22,6 +24,6 @@ app.UseAuthorization();
 
 app.MapControllerRoute(
     name: "default",
-    pattern: "{controller=Home}/{action=Index}/{id?}");
+    pattern: "{controller=Home}/{action=Index}/{id?}"); //Defined Default URL (Index Method in Home Controller)
 
 app.Run();

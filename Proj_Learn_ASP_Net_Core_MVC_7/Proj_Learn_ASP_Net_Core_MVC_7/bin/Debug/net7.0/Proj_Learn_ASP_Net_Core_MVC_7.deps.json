@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Proj_Learn_ASP_Net_Core_MVC_7/1.0.0": {
+        "runtime": {
+          "Proj_Learn_ASP_Net_Core_MVC_7.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Proj_Learn_ASP_Net_Core_MVC_7/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
