@@ -16,6 +16,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\v-muplenchwa\myrepos\learndotnetmvccore7\Proj_Learn_ASP_Net_Core_MVC_7\Proj_Learn_ASP_Net_Core_MVC_7
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/v-muplenchwa/myrepos/learndotnetmvccore7/Proj_Learn_ASP_Net_Core_MVC_7/Proj_Learn_ASP_Net_Core_MVC_7/Views/Person/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyc29uXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/v-muplenchwa/myrepos/learndotnetmvccore7/Proj_Learn_ASP_Net_Core_MVC_7/Proj_Learn_ASP_Net_Core_MVC_7/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 

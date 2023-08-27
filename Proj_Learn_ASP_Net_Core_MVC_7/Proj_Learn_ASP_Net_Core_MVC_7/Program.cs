@@ -24,6 +24,6 @@ app.UseAuthorization();
 
 app.MapControllerRoute(
     name: "default",
-    pattern: "{controller=Home}/{action=Index}/{id?}"); //Defined Default URL (Index Method in Home Controller)
+    pattern: "{controller=Person}/{action=Index}/{id?}"); //Defined Default URL (Index Method in Home Controller)
 
 app.Run();
