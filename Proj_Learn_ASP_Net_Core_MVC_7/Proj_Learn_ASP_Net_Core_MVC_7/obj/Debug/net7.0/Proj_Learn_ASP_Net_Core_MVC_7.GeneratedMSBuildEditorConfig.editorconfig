@@ -16,8 +16,16 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\v-muplenchwa\myrepos\learndotnetmvccore7\Proj_Learn_ASP_Net_Core_MVC_7\Proj_Learn_ASP_Net_Core_MVC_7
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/v-muplenchwa/myrepos/learndotnetmvccore7/Proj_Learn_ASP_Net_Core_MVC_7/Proj_Learn_ASP_Net_Core_MVC_7/Views/Person/AddPerson.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyc29uXEFkZFBlcnNvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/v-muplenchwa/myrepos/learndotnetmvccore7/Proj_Learn_ASP_Net_Core_MVC_7/Proj_Learn_ASP_Net_Core_MVC_7/Views/Person/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyc29uXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/v-muplenchwa/myrepos/learndotnetmvccore7/Proj_Learn_ASP_Net_Core_MVC_7/Proj_Learn_ASP_Net_Core_MVC_7/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/v-muplenchwa/myrepos/learndotnetmvccore7/Proj_Learn_ASP_Net_Core_MVC_7/Proj_Learn_ASP_Net_Core_MVC_7/Views/_ViewImports.cshtml]

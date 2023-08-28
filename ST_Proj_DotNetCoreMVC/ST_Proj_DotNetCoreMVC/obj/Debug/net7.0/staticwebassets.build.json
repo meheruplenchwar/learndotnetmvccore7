@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "TXqWy9m5I8urEAecd9MzoWWmcduiqpJ/ZpshpIWFxT0=",
+  "Source": "ST_Proj_DotNetCoreMVC",
+  "BasePath": "_content/ST_Proj_DotNetCoreMVC",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ST_Proj_DotNetCoreMVC\\wwwroot",
+      "Source": "ST_Proj_DotNetCoreMVC",
+      "ContentRoot": "C:\\Users\\v-muplenchwa\\myrepos\\learndotnetmvccore7\\ST_Proj_DotNetCoreMVC\\ST_Proj_DotNetCoreMVC\\wwwroot\\",
+      "BasePath": "_content/ST_Proj_DotNetCoreMVC",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\v-muplenchwa\\myrepos\\learndotnetmvccore7\\ST_Proj_DotNetCoreMVC\\ST_Proj_DotNetCoreMVC\\wwwroot\\favicon.ico",
+      "SourceId": "ST_Proj_DotNetCoreMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\v-muplenchwa\\myrepos\\learndotnetmvccore7\\ST_Proj_DotNetCoreMVC\\ST_Proj_DotNetCoreMVC\\wwwroot\\",
+      "BasePath": "_content/ST_Proj_DotNetCoreMVC",
+      "RelativePath": "favicon.ico",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\favicon.ico"
+    }
+  ]
+}

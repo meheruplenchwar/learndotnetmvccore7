@@ -1,0 +1,32 @@
+﻿@model Proj_Learn_ASP_Net_Core_MVC_7.Models.Domain.PersonModel
+
+<div style="width:50%;margin:20px">
+
+    <form asp-action="AddPerson">
+        <h2>Add Person</h2>
+        <div class="mb-3">
+            <label asp-for="Name" class="form-label">Name</label>
+            <input asp-for="Name" type="text" class="form-control" />
+            <span class="text-danger" asp-validation-for="Name"></span>
+        </div>
+
+        <div class="mb-3">
+            <label asp-for="Email" class="form-label">Email</label>
+            <input asp-for="Email" type="text" class="form-control" />
+            <span class="text-danger" asp-validation-for="Email"></span>
+        </div>
+
+        <div class="mb-3">
+            <button type="submit" class="btn btn-primary">Submit</button>
+            <a href="" class="btn btn-primary">All Persons</a>
+        </div>
+
+        <div class="mb-3">
+            @if (TempData["ServerMsg"] != null)
+            {
+               @TempData["ServerMsg"] 
+            }
+        </div>
+    </form>
+
+</div>
